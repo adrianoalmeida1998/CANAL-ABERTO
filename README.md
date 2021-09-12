@@ -13,5 +13,6 @@ https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e
 #EXTM3U
 #EXTINF:0 group-title="TNT"
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-2.png" group-title="CANAL FOX",FOX SPORTS
-https://m3u9.ml/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=0BThOC26HcvsDyOsbiwZVw&3U1G7qaTxrPbalZnEx=1631439223
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://tntsports.com.br/__export/1610630797416/sites/esporteinterativo/arte/apps/twitter_summary_card_20210114.jpg" group-title="CANAL TNT",TNT SPORTS
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/canal-01/playlist-720p.m3u8
+
